@@ -16,7 +16,7 @@ public class Main{
         int totalRounds = 0;
         int totalAttempts = 0;
 
-        // Play multiple rounds
+        // Play multiple roundsjk
         boolean playAgain = true;
         while (playAgain) {
             // Generate a random number within the specified range
